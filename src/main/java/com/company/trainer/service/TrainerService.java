@@ -11,7 +11,7 @@ import com.company.trainer.beans.Trainer;
 import com.company.trainer.repo.TrainerRepository;
 
 /**
- * @author Satyaa
+ * @author Gaurav
  * @see Trainer Services
  * @since February, 2022
  */

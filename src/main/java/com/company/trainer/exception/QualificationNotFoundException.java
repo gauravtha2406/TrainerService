@@ -2,7 +2,7 @@ package com.company.trainer.exception;
 
 /**
  * 
- * @author Ashish
+ * @author Gaurav
  * @see QualificationNotFoundException
  * @since February, 2022
  *

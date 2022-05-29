@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 
- * @author Ashish
+ * @author Gaurav
  * @since February, 2022
  * @see Qualification Bean
  */

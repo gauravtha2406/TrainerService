@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 /**
  * 
- * @author Yuvraj
+ * @author Gaurav
  * @since February, 2022
  * @see Toc Bean Class
  *

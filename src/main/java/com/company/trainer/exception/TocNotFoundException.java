@@ -1,7 +1,7 @@
 package com.company.trainer.exception;
 
 /**
- * @author Yuvraj
+ * @author Gaurav
  * @since February, 2022
  * @see TocNotFoundException
  *

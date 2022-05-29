@@ -2,7 +2,7 @@ package com.company.trainer.exception;
 
 /**
  * 
- * @author Kushal
+ * @author Gaurav
  * @see ExperienceNotFoundException
  * @since February, 2022
  *

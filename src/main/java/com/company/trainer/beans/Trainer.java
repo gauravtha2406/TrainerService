@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * @author Satyaa
+ * @author Gaurav
  * @since February, 2022
  * @see Trainer Beans
  */

@@ -1,7 +1,7 @@
 package com.company.trainer.controller;
 
 /**
- * @author Satyaa
+ * @author Gaurav
  * @see Trainer Controller -> TrainerEndpoints
  * @since February, 2022
  */

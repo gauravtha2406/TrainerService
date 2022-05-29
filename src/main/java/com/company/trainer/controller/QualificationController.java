@@ -19,7 +19,7 @@ import com.company.trainer.exception.TrainerNotFoundException;
 import com.company.trainer.service.QualificationsService;
 /**
  * 
- * @author Ashish
+ * @author Gaurav
  * @since February, 2022
  */
 @RestController

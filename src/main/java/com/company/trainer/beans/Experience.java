@@ -6,7 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 /**
  * 
- * @author Kushal
+ * @author Gaurav
  * @since February,2022
  * @see trainer experience bean
  *

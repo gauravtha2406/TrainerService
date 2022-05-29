@@ -18,7 +18,7 @@ import com.company.trainer.exception.ExperienceNotFoundException;
 import com.company.trainer.exception.TrainerNotFoundException;
 import com.company.trainer.service.ExperienceService;
 /**
- * @author Kushal
+ * @author Gaurav
  * @since February,2022
  * 
  */

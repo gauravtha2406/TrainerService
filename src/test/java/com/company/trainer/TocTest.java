@@ -36,9 +36,9 @@ class TocTest {
 	public void setUp() {
 		System.out.println("+++++++++-----------------------------------------------------------------+++++++++");
 		Optional<Trainer> user = Optional
-				.of(new Trainer(101, "yuvraj", "pass", "yuvraj@gmail.com", 931728121, null, null, null));
+				.of(new Trainer(101, "Gaurav", "pass", "gaurav@gmail.com", 931728121, null, null, null));
 		List<Trainer> list = Arrays
-				.asList(new Trainer(101, "yuvraj", "pass", "yuvraj@gmail.com", 931728121, null, null, null));
+				.asList(new Trainer(101, "Gaurav", "pass", "gaurav@gmail.com", 931728121, null, null, null));
 
 		// mocked object
 		when(repo.findById(101)).thenReturn(user);

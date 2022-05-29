@@ -14,7 +14,7 @@ import com.company.trainer.exception.TrainerNotFoundException;
 import com.company.trainer.repo.TrainerRepository;
 
 /**
- * @author Yuvraj
+ * @author Gaurav
  * @since February, 2022
  * 
  */

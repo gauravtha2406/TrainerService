@@ -2,7 +2,7 @@ package com.company.trainer.exception;
 
 /**
  * 
- * @author Satyaa
+ * @author Gaurav
  * @see TrainerNotFoundException
  * @since February, 2022
  *
